@@ -1,5 +1,5 @@
 # Geode iOS Launcher
-Manages installing and launching **Geometry Dash** with **Geode** for iOS.
+Manages installing and launching **NovaDash** with **Geode** for iOS.
 
 <p align="center">
 	<img src="/screenshots/thumbnail.png" />
@@ -7,7 +7,7 @@ Manages installing and launching **Geometry Dash** with **Geode** for iOS.
 
 ## Requirements
 - iOS/iPadOS 14.0 or later
-- Full version of Geometry Dash installed
+- Full version of NovaDash installed
 - An internet connection
 
 ## Quick Start
